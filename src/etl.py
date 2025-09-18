@@ -1,5 +1,5 @@
-import pandas as pd
-import os
+import pandas as pd #biblioteca para manipulacao e análise de dados
+import os #biblioteca para manipular arquivos
 
 def run_etl():
 
